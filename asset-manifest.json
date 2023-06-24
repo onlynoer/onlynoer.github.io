@@ -1,15 +1,22 @@
 {
   "files": {
     "main.css": "/static/css/main.541c3c58.css",
+<<<<<<< HEAD
     "main.js": "/static/js/main.bbe88186.js",
+=======
+    "main.js": "/static/js/main.1d62c328.js",
+>>>>>>> d427884e80f567062b87d721d0931aff9a491042
     "static/media/product4.jpg": "/static/media/product4.767417bea17688d6d8ce.jpg",
     "static/media/product2.jpg": "/static/media/product2.e93f12ec1b20980a1bd1.jpg",
     "static/media/kingRank.png": "/static/media/kingRank.3a631f60045b9c5191ee.png",
     "static/media/mistyRank.png": "/static/media/mistyRank.3ab1ba1e055d115e8842.png",
     "static/media/comicoRank.png": "/static/media/comicoRank.f90083713b8cd93c2118.png",
+<<<<<<< HEAD
     "static/media/troller_kit.png": "/static/media/troller_kit.4cf99411e8b8dcbe93f9.png",
     "static/media/grinder_kit.png": "/static/media/grinder_kit.49f1837803db01675e08.png",
     "static/media/poseidon_kit.png": "/static/media/poseidon_kit.eacd0b0c98e212f58107.png",
+=======
+>>>>>>> d427884e80f567062b87d721d0931aff9a491042
     "static/media/product1.jpg": "/static/media/product1.b8efc7a24c281ed8911b.jpg",
     "static/media/product3.jpg": "/static/media/product3.be6bce80c539b3222473.jpg",
     "static/media/avatar3.png": "/static/media/avatar3.013c6cf3e081328c4626.png",
@@ -24,6 +31,10 @@
   },
   "entrypoints": [
     "static/css/main.541c3c58.css",
+<<<<<<< HEAD
     "static/js/main.bbe88186.js"
+=======
+    "static/js/main.1d62c328.js"
+>>>>>>> d427884e80f567062b87d721d0931aff9a491042
   ]
 }
