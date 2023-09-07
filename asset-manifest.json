@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.df6456d4.css",
-    "main.js": "/static/js/main.5ab61071.js",
+    "main.css": "/static/css/main.a1d2794a.css",
+    "main.js": "/static/js/main.df705dd9.js",
     "static/media/product2.jpg": "/static/media/product2.e93f12ec1b20980a1bd1.jpg",
     "static/media/solarKnight.png": "/static/media/solarKnight.31eb6f6993b0bc51887d.png",
     "static/media/lunarVortex.png": "/static/media/lunarVortex.9c5ce0b315b352768a21.png",
@@ -17,7 +17,7 @@
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.df6456d4.css",
-    "static/js/main.5ab61071.js"
+    "static/css/main.a1d2794a.css",
+    "static/js/main.df705dd9.js"
   ]
 }
