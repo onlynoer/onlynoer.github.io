@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.a1d2794a.css",
-    "main.js": "/static/js/main.df705dd9.js",
+    "main.css": "/static/css/main.ebb3a9e6.css",
+    "main.js": "/static/js/main.acaadeea.js",
     "static/media/product2.jpg": "/static/media/product2.e93f12ec1b20980a1bd1.jpg",
     "static/media/solarKnight.png": "/static/media/solarKnight.31eb6f6993b0bc51887d.png",
     "static/media/lunarVortex.png": "/static/media/lunarVortex.9c5ce0b315b352768a21.png",
@@ -12,12 +12,13 @@
     "static/media/grinder_kit.png": "/static/media/grinder_kit.49f1837803db01675e08.png",
     "static/media/poseidon_kit.png": "/static/media/poseidon_kit.eacd0b0c98e212f58107.png",
     "static/media/product1.jpg": "/static/media/product1.b8efc7a24c281ed8911b.jpg",
+    "static/media/cosmic.png": "/static/media/cosmic.79e28c0d4a910066f244.png",
     "static/media/product6.jpg": "/static/media/product6.3260a3b510aa12fc136b.jpg",
     "static/media/avatar.jpg": "/static/media/avatar.6382d46d032ef4c14b3b.jpg",
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.a1d2794a.css",
-    "static/js/main.df705dd9.js"
+    "static/css/main.ebb3a9e6.css",
+    "static/js/main.acaadeea.js"
   ]
 }
